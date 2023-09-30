@@ -1,11 +1,11 @@
 # main links
 main:
-  - title: "Category One"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "Category Two"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "Category 1"
+    url: /categories/#cat1
+  - title: "Category 2"
+    url: /categories/#cat2
   - title: "Category 3"
-    url: /year-archive/
+    url: /categories/#cat3
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
