@@ -2,12 +2,12 @@
 title: "TEST POST "
 classes: wide
 header:
-  teaser: /assets/images/Vidar-Stealer-Camapign/logo.png
-  overlay_image: /assets/images/Vidar-Stealer-Camapign/logo.png
+  teaser: /assets/images/imageHERE.png
+  overlay_image: /assets/images/IMAGEHERE.png
   overlay_filter: 0.5
 ribbon: DarkSlateGray
-excerpt: "Deep Dive analysis of an Vidar Stealer"
-description: "Deep Dive analysis of an Vidar Stealer"
+excerpt: excerpt here"
+description: "desc herre"
 categories:
   - Category 1
 ---
@@ -17,9 +17,6 @@ Intro
 # Title here
 temp text
 
-![image.png](/assets/images/Vidar-Stealer-Camapign/1.png)
-
-just testing images @toxin<3
+![image.png](/assets/images/imghere.png
 
 
-Date: blblbl1010202
